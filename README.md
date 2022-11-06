@@ -1,5 +1,7 @@
 ### Hello O_o
 
+![Thumb](https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-e1624308433688.jpg?fit=2309%2C1154&strip=all)
+
 I'm a programmer and developer.
 Currently I'm studying cyber security and doing some front-end and back-end projects.
 
